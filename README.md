@@ -46,3 +46,13 @@ searchflow/
 - Change the animation duration using transition in CSS.
 - Replace icons with your preferred SVG or font icons.
 - Add search functionality using JavaScript or connect to a backend.
+<span>👉 Desktop Design</span><br/>
+<a href="" target="_blank" >
+<img src="./SearchFlow.gif" width="575px"/>
+</a>
+
+<span>📸 Desktop Design</span><br/>
+<a href="" target="_blank" >
+<img src="./SearchFlow.png" width="325px"/>
+<img src="./SearchFlowHover.png" width="325px"/>
+</a>
