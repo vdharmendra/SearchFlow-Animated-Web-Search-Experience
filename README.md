@@ -6,9 +6,6 @@ SearchFlow is a sleek, modern animated web search bar designed to enhance user i
 <a href="https://www.linkedin.com/in/dharmendraverma95/" target="_blank">🧑‍💻 LinkedIn Profile </a> | <a href="https://www.behance.net/dhirukumar" target="_blank">🧑‍💻 Behance Profile </a>
 
 
-## 🎥 Preview
-
-![SearchFlow Demo](https://yourdomain.com/images/preview.gif)
 
 ## ✨ Features
 
@@ -23,7 +20,6 @@ SearchFlow is a sleek, modern animated web search bar designed to enhance user i
 - HTML5
 - CSS3 (with keyframe animations and transitions)
 - JavaScript (for interactivity, optional)
-- [GSAP](https://greensock.com/gsap/) *(Optional animation library, if used)*
 
 ## 📁 Folder Structure
 
@@ -46,13 +42,15 @@ searchflow/
 - Change the animation duration using transition in CSS.
 - Replace icons with your preferred SVG or font icons.
 - Add search functionality using JavaScript or connect to a backend.
+
+
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/230224139/serach-icon-animation" target="_blank" >
 <img src="./SearchFlow.gif" width="575px"/>
 </a>
 
 <span>📸 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/230224139/serach-icon-animation" target="_blank" >
 <img src="./SearchFlow.png" width="325px"/>
 <img src="./SearchFlowHover.png" width="325px"/>
 </a>
